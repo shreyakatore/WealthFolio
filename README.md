@@ -2,7 +2,7 @@
 
 A premium Wealth Management & SIP (Systematic Investment Plan) Tracker Dashboard built with Next.js 16 and Tailwind CSS 4. Designed with a sophisticated dark-mode interface inspired by platforms like Zerodha and Groww.
 
-**Live Demo:** https://wealthfolio.vercel.app
+**Live Demo:** https://wealth-folio-teal.vercel.app
 
 ---
 
